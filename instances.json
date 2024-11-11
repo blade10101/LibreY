@@ -160,6 +160,13 @@
       "i2p": null,
       "country": "RO",
       "librey": true
+    },
+    {
+      "clearnet": "https://librey.darkness.services/",
+      "tor": "http://librey.darknessrdor43qkl2ngwitj72zdavfz2cead4t5ed72bybgauww5lyd.onion/",
+      "i2p": null,
+      "country": "US",
+      "librey": true
     }
   ]
 }
